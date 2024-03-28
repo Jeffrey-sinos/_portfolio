@@ -31,8 +31,8 @@ function getColorForPercentage(percentage) {
 
 increase("value1", 80, 80) //HTML
 increase("value2", 70, 70) //CSS
-increase("value3", 40, 40) //JS
-increase("value4", 50, 50) //PHP
+increase("value3", 50, 50) //JS
+increase("value4", 60, 60) //PHP
 increase("value5", 60, 60) //SQL
 
 //functionality for the navbar
