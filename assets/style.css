@@ -12,9 +12,9 @@
 }
 
 :root{
-    --background-color: #F8EEEC;
-    --text-color:#2E1503;
-    --primary-color:#9E4244;
+    --background-color: #0E2123;
+    --text-color:#FFFFFF;
+    --primary-color:#72eaaa;
 }
 
 html {
@@ -425,6 +425,7 @@ span{
     margin-top: 2rem;
 }
 
+/*Footer section */
 .footer{
     position: relative;
     bottom: 0;
@@ -565,5 +566,3 @@ span{
         margin-bottom: 3rem;
     }
 }
-
-

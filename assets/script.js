@@ -15,8 +15,8 @@ function increase(valueElement, limit, targetValue){
 }
 
 function getColorForPercentage(percentage) {
-    // RGB values for brown
-    const brownColor = [121, 68, 59];
+    // RGB values for background color
+    const brownColor = [114, 234, 170];
 
     // Calculate the interpolated color based on the percentage
     const interpolatedColor = brownColor.map((value) => Math.round(value * (percentage / 100)));
