@@ -256,7 +256,6 @@ span{
 }
 
 /*Skills section*/
-
 .skills{
     background-color: var(--background-color);
     margin: 0 auto;
@@ -314,3 +313,6 @@ span{
     background: white;
     cursor: pointer;
 }
+
+
+
